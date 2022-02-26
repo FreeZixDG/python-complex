@@ -52,7 +52,6 @@ if __name__ == '__main__':
     a_c = complex(9, -5)
 
     print(z ** 2)
-    print(z_c ** 2)
 
     print(a ** 2)
     print(a_c ** 2)
