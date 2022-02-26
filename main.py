@@ -54,7 +54,6 @@ if __name__ == '__main__':
     print(z ** 2)
 
     print(a ** 2)
-    print(a_c ** 2)
 
     print(Complex(45., 12.) ** 48)
     print((45. + 12.j) ** 48)
